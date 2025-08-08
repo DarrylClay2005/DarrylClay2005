@@ -1,0 +1,463 @@
+{
+  "repositories": [
+    {
+      "name": "VRChat-UserName-And-Password-Generator",
+      "languages": {
+        "JavaScript": 165,
+        "Other": 252761,
+        "Markdown": 1,
+        "HTML": 75
+      },
+      "file_counts": {
+        "JavaScript": 2,
+        "Other": 5,
+        "Markdown": 1,
+        "HTML": 2
+      },
+      "total_lines": 253002
+    },
+    {
+      "name": "Intro-to-Tailwind-Band-Name-Generator",
+      "languages": {
+        "HTML": 122,
+        "Other": 76536,
+        "Markdown": 2
+      },
+      "file_counts": {
+        "HTML": 1,
+        "Other": 2,
+        "Markdown": 1
+      },
+      "total_lines": 76660
+    },
+    {
+      "name": "Pizza-Diameter-Calculator-And-Password-Creator-CapStone-Project",
+      "languages": {
+        "Markdown": 4,
+        "CSS": 60,
+        "JavaScript": 201,
+        "Other": 45647,
+        "HTML": 62
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "CSS": 1,
+        "JavaScript": 1,
+        "Other": 1,
+        "HTML": 1
+      },
+      "total_lines": 45974
+    },
+    {
+      "name": "free-meal-finder",
+      "languages": {
+        "Markdown": 21,
+        "JavaScript": 75,
+        "CSS": 75,
+        "Other": 34671,
+        "HTML": 17
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "CSS": 1,
+        "Other": 1,
+        "HTML": 1
+      },
+      "total_lines": 34859
+    },
+    {
+      "name": "Free-Meal-Searcher-API",
+      "languages": {
+        "CSS": 75,
+        "JavaScript": 82,
+        "Other": 34671,
+        "Markdown": 1,
+        "HTML": 17
+      },
+      "file_counts": {
+        "CSS": 1,
+        "JavaScript": 1,
+        "Other": 1,
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 34846
+    },
+    {
+      "name": "Tailwind-CSS-Lab--Responsive-Image-Gallery",
+      "languages": {
+        "HTML": 166,
+        "Other": 24308,
+        "Markdown": 1
+      },
+      "file_counts": {
+        "HTML": 2,
+        "Other": 1,
+        "Markdown": 1
+      },
+      "total_lines": 24475
+    },
+    {
+      "name": "meal-finder-api",
+      "languages": {
+        "Other": 4965,
+        "HTML": 11,
+        "Markdown": 19
+      },
+      "file_counts": {
+        "Other": 3,
+        "HTML": 1,
+        "Markdown": 1
+      },
+      "total_lines": 4995
+    },
+    {
+      "name": "react-vite-d1",
+      "languages": {
+        "JSON": 2823,
+        "JavaScript": 42,
+        "Other": 14,
+        "HTML": 13,
+        "Markdown": 2
+      },
+      "file_counts": {
+        "JSON": 2,
+        "JavaScript": 5,
+        "Other": 3,
+        "HTML": 1,
+        "Markdown": 1
+      },
+      "total_lines": 2894
+    },
+    {
+      "name": "webpack-intro",
+      "languages": {
+        "JavaScript": 21,
+        "JSON": 1513,
+        "HTML": 10
+      },
+      "file_counts": {
+        "JavaScript": 3,
+        "JSON": 2,
+        "HTML": 1
+      },
+      "total_lines": 1544
+    },
+    {
+      "name": "about-me-2025-updated-3-26-25",
+      "languages": {
+        "HTML": 94,
+        "Markdown": 41,
+        "Other": 631
+      },
+      "file_counts": {
+        "HTML": 3,
+        "Markdown": 1,
+        "Other": 1
+      },
+      "total_lines": 766
+    },
+    {
+      "name": "HTML-Lab-1-Updated",
+      "languages": {
+        "Other": 631,
+        "Markdown": 16,
+        "HTML": 44
+      },
+      "file_counts": {
+        "Other": 1,
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 691
+    },
+    {
+      "name": "JavaScript",
+      "languages": {
+        "Markdown": 2,
+        "JavaScript": 318,
+        "CSS": 26,
+        "HTML": 141
+      },
+      "file_counts": {
+        "Markdown": 2,
+        "JavaScript": 6,
+        "CSS": 1,
+        "HTML": 4
+      },
+      "total_lines": 487
+    },
+    {
+      "name": "Markdown-Practice",
+      "languages": {
+        "Markdown": 13,
+        "Other": 273
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "Other": 1
+      },
+      "total_lines": 286
+    },
+    {
+      "name": "Guided-Project",
+      "languages": {
+        "JavaScript": 64,
+        "CSS": 135,
+        "Other": 4,
+        "Markdown": 1,
+        "HTML": 53
+      },
+      "file_counts": {
+        "JavaScript": 1,
+        "CSS": 1,
+        "Other": 1,
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 257
+    },
+    {
+      "name": "pagination-project",
+      "languages": {
+        "Markdown": 1,
+        "JavaScript": 21,
+        "HTML": 105
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "JavaScript": 1,
+        "HTML": 1
+      },
+      "total_lines": 127
+    },
+    {
+      "name": "JavaScript-Lab-1",
+      "languages": {
+        "Markdown": 1,
+        "CSS": 52,
+        "JavaScript": 45,
+        "HTML": 26
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "CSS": 1,
+        "JavaScript": 1,
+        "HTML": 1
+      },
+      "total_lines": 124
+    },
+    {
+      "name": "js-modules-practice",
+      "languages": {
+        "JavaScript": 48,
+        "Markdown": 13,
+        "JSON": 28
+      },
+      "file_counts": {
+        "JavaScript": 6,
+        "Markdown": 1,
+        "JSON": 2
+      },
+      "total_lines": 89
+    },
+    {
+      "name": "flexbox-and-forms",
+      "languages": {
+        "Markdown": 1,
+        "HTML": 83
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 84
+    },
+    {
+      "name": "CSS-Lab-Project",
+      "languages": {
+        "Markdown": 0,
+        "CSS": 0,
+        "JavaScript": 0,
+        "HTML": 83
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "CSS": 1,
+        "JavaScript": 1,
+        "HTML": 1
+      },
+      "total_lines": 83
+    },
+    {
+      "name": "javascript-basics",
+      "languages": {
+        "Markdown": 1,
+        "HTML": 12,
+        "JavaScript": 70
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "HTML": 1,
+        "JavaScript": 2
+      },
+      "total_lines": 83
+    },
+    {
+      "name": "-HTML-Lab-4-Pizza-Order-Page-Forms-Tables",
+      "languages": {
+        "HTML": 66,
+        "Markdown": 15
+      },
+      "file_counts": {
+        "HTML": 1,
+        "Markdown": 1
+      },
+      "total_lines": 81
+    },
+    {
+      "name": "error-handling-js",
+      "languages": {
+        "HTML": 61,
+        "Markdown": 1
+      },
+      "file_counts": {
+        "HTML": 1,
+        "Markdown": 1
+      },
+      "total_lines": 62
+    },
+    {
+      "name": "Conditions-Functional-Demo",
+      "languages": {
+        "HTML": 12,
+        "JavaScript": 38,
+        "Markdown": 1
+      },
+      "file_counts": {
+        "HTML": 1,
+        "JavaScript": 1,
+        "Markdown": 1
+      },
+      "total_lines": 51
+    },
+    {
+      "name": "html-elements-structure",
+      "languages": {
+        "Markdown": 1,
+        "HTML": 50
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 51
+    },
+    {
+      "name": "week-1-git-practice-may-2024",
+      "languages": {
+        "Markdown": 1,
+        "HTML": 14,
+        "CSS": 4,
+        "JavaScript": 0
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "HTML": 1,
+        "CSS": 1,
+        "JavaScript": 1
+      },
+      "total_lines": 19
+    },
+    {
+      "name": "webpack-tree-shaking",
+      "languages": {
+        "Other": 1,
+        "JavaScript": 5,
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Other": 1,
+        "JavaScript": 3,
+        "Markdown": 1
+      },
+      "total_lines": 7
+    },
+    {
+      "name": "html-lab-codex-demo",
+      "languages": {
+        "Markdown": 1,
+        "HTML": 6
+      },
+      "file_counts": {
+        "Markdown": 1,
+        "HTML": 1
+      },
+      "total_lines": 7
+    },
+    {
+      "name": "css-demo",
+      "languages": {
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Markdown": 1
+      },
+      "total_lines": 1
+    },
+    {
+      "name": "VRChat-Group-Coding",
+      "languages": {
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Markdown": 1
+      },
+      "total_lines": 1
+    },
+    {
+      "name": "node-review",
+      "languages": {
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Markdown": 1
+      },
+      "total_lines": 1
+    },
+    {
+      "name": "BootStrap-Assignments",
+      "languages": {
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Markdown": 1
+      },
+      "total_lines": 1
+    },
+    {
+      "name": "Postman-APIs",
+      "languages": {
+        "Markdown": 1
+      },
+      "file_counts": {
+        "Markdown": 1
+      },
+      "total_lines": 1
+    }
+  ],
+  "total_statistics": {
+    "Other": 475113,
+    "JavaScript": 1195,
+    "Markdown": 167,
+    "CSS": 427,
+    "HTML": 1343,
+    "JSON": 4364
+  },
+  "summary": {
+    "total_repositories": 32,
+    "total_lines_of_code": 482609,
+    "languages_used": 6
+  }
+}
